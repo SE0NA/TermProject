@@ -8,7 +8,6 @@
 ### 소프트웨어기초설계
 - 타자연습프로그램/게임(소코반)
 - C
-- 팀프로젝트(2인)
 
 ![image](https://user-images.githubusercontent.com/85846475/121820081-bc07fe80-cccb-11eb-8f6e-484fe62450e4.png)
 ![image](https://user-images.githubusercontent.com/85846475/121820095-cf1ace80-cccb-11eb-86c6-518c6feec2ec.png)
