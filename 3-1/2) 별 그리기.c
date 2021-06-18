@@ -1,4 +1,4 @@
-// 컴퓨터 그래픽스 : 2. 별 그리기
+// 컴퓨터 그래픽스 : 2. 별 그리기.c
 
 #include <GL/glut.h>
 #include <stdlib.h>
